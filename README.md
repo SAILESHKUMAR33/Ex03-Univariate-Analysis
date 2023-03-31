@@ -77,9 +77,11 @@ Displaying information about Dataset:
 Finding null values and cleaning it:
 
 ![image](https://user-images.githubusercontent.com/113497410/229032274-740437ea-d63a-4ebf-a967-feef2c02ae61.png)
+
 Value counts of "Postal Code":
 
 ![image](https://user-images.githubusercontent.com/113497410/229032353-99d0f078-2103-4a56-8e58-1d77f56bad80.png)
+
 Distribution of Data:
 
 ![image](https://user-images.githubusercontent.com/113497410/229032397-e8973d5f-e015-4c48-add9-59edbb31fe85.png)
